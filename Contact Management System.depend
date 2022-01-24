@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642329011 source:c:\users\aryan\onedrive\desktop\contact management system\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<stdlib.h>
+	<dos.h>
+
